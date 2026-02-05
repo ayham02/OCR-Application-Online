@@ -139,6 +139,7 @@ docker run -p 8000:8000 ocr-app
 #### `POST /api/ocr`
 Extract text from uploaded image or PDF.
 
+
 **Request:**
 - Method: `POST`
 - Content-Type: `multipart/form-data`
